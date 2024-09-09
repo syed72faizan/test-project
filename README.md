@@ -1,3 +1,29 @@
+Learning 
+- _Python_,
+- _Generative AI_,
+- _Docker_,
+- _GitHub_,
+- _Typescript_,
+- _Jupyter Notebook_,
+- _Google Colab_,
+- _Linux_, 
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Dictionaries method in Python /(concept) 
 ### =>> _*.values(), .keys(), .items() methods in Dictionaries*_
 
